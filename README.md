@@ -81,6 +81,10 @@ From training models on real-world data to experimenting with autonomous systems
   <a href="https://instagram.com/charvi_gupta18"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://github.com/CHARVI1809"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
+---
+
+## 👀 GitHub Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=CHARVI1809&color=blue)
 
 ---
 ✨ **"I don't just learn technology — I use it to create something meaningful."**
