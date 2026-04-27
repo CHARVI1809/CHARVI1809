@@ -23,11 +23,13 @@ From training models on real-world data to experimenting with autonomous systems
 - **[📜Completion Certificate →](https://drive.google.com/file/d/188uukavJR6U-WD3nNP2oEfOxkvNVrws6/view)**
 
 ---
+## 📊 GitHub Stats
 
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CHARVI1809&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CHARVI1809&theme=tokyonight&hide_border=true&border_radius=8" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CHARVI1809&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHARVI1809&theme=tokyonight&hide_border=true&layout=compact&border_radius=8" height="150" />
+</div>
 
 ---
 
@@ -74,7 +76,7 @@ From training models on real-world data to experimenting with autonomous systems
 - 📈 Proud to be on the **Dean’s List in every semester** 
 - 🥇 **District-level Gold Medalist in Karate**
 - 🎯 **Smart India Hackathon (SIH)**: 2023, 2024, 2025 (College-level selected)
-- 💻 **Social Summer of Code (SSOC)** Contributor
+- 💻 **Social Summer of Code (SSOC) 2025** Contributor
 - 💃 **Bharatanatyam** (3 years training)
 
 ---
