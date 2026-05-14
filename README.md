@@ -27,8 +27,8 @@ From training models on real-world data to experimenting with autonomous systems
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=CHARVI1809&theme=tokyonight&hide_border=true&border_radius=8" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=CHARVI1809&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHARVI1809&theme=tokyonight&hide_border=true&layout=compact&border_radius=8" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CHARVI1809&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CHARVI1809&layout=compact&theme=tokyonight" height="150"/>
 </div>
 
 ---
