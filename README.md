@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Charvi  
 
-A 3rd-year **BTech** student in **Computer Science and Engineering** with a CGPA of **9.66**.  
+A 4th-year **BTech** student in **Computer Science and Engineering** at **Manipal University Jaipur** with a CGPA of **9.65**.  
 I love building intelligent systems that *see, understand, and act*.  
 
 From training models on real-world data to experimenting with autonomous systems, I enjoy turning ideas into working solutions that make an impact.
