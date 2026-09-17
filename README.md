@@ -15,6 +15,7 @@ From training models on real-world data to experimenting with autonomous systems
 ---
 
 ## 💼 **Internship Experience**
+**Research Intern** @ RRCAT 
 **Machine Learning Intern @ [HypeOn AI](https://www.hypeon.ai/)**  
 - Contributed to building a real **AI-powered analytics product**.
 - Worked on Frontend: **React, HTML, CSS** and UI Design: **Figma**.
